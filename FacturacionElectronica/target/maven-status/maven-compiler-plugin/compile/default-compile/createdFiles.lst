@@ -1,0 +1,15 @@
+com\mycompany\facturacionelectronica\controller\Item.class
+com\mycompany\facturacionelectronica\controller\Cliente.class
+com\mycompany\facturacionelectronica\database\BdLoggin.class
+com\mycompany\facturacionelectronica\database\Conexion.class
+com\mycompany\facturacionelectronica\servlets\SvFactura.class
+com\mycompany\facturacionelectronica\servlets\SvLoggin.class
+com\mycompany\facturacionelectronica\JakartaRestConfiguration.class
+com\mycompany\facturacionelectronica\resources\JakartaEE10Resource.class
+com\mycompany\facturacionelectronica\servlets\SvItem.class
+com\mycompany\facturacionelectronica\servlets\SvCliente.class
+com\mycompany\facturacionelectronica\database\BdCliente.class
+com\mycompany\facturacionelectronica\database\BdItem.class
+com\mycompany\facturacionelectronica\controller\Factura.class
+com\mycompany\facturacionelectronica\controller\Loggin.class
+com\mycompany\facturacionelectronica\database\BdFactura.class
