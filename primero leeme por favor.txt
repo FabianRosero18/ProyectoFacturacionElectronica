@@ -29,3 +29,10 @@ password: s2020
 NOTA: version conector java MySQL usado: 8.0.17
 
 APACHE TOMCAT Version: 10.1.24;
+
+
+---------------------------------------------------------------------------------------------
+											    -
+link a repositorio GITHUB: https://github.com/FabianRosero18/ProyectoFacturacionElectronica -
+											    -
+---------------------------------------------------------------------------------------------
