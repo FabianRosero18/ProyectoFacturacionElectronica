@@ -1,0 +1,16 @@
+com\mycompany\facturacionelectronica\database\Factura.class
+com\mycompany\facturacionelectronica\controller\CtrlLoggin.class
+com\mycompany\facturacionelectronica\database\Cliente.class
+com\mycompany\facturacionelectronica\database\Item.class
+com\mycompany\facturacionelectronica\servlets\SvFactura.class
+com\mycompany\facturacionelectronica\controller\CtrlItem.class
+com\mycompany\facturacionelectronica\servlets\SvLoggin.class
+com\mycompany\facturacionelectronica\JakartaRestConfiguration.class
+com\mycompany\facturacionelectronica\resources\JakartaEE10Resource.class
+com\mycompany\facturacionelectronica\servlets\SvItem.class
+com\mycompany\facturacionelectronica\controller\CtrlCliente.class
+com\mycompany\facturacionelectronica\controller\CtrlFactura.class
+com\mycompany\facturacionelectronica\servlets\SvCliente.class
+com\mycompany\facturacionelectronica\database\Loggin.class
+com\mycompany\facturacionelectronica\servlets\SvMenu.class
+com\mycompany\facturacionelectronica\database\JpaUtil.class

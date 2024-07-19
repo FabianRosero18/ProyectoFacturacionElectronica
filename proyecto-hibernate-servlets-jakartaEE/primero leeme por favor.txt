@@ -1,0 +1,45 @@
+NOTA: POR favor, tenga en cuenta que este proyecto esta realizado con un fin académico, por lo cual no cuenta con todas las medidas de seguridad que debería contar un proyecto industrial, sin embargo se hace con la finalidad del aprendizaje del lenguaje de programación JAVA EE usando Selvets y JSP
+
+para el correcto funcionamiento del programa, se deben seguir todos los pasos al pie de la letra e importar la base de datos MySQL que encontrara en esta carpeta
+
+paso a paso para la utilización del programa:
+
+1. Loguearse con uno de los dos usuarios y contraseña descritos en la base de datos:
+
+usuario: facturador
+password: s2010
+
+usuario: administrativo
+password: s2020
+
+1.1 escoger el modulo a ingresar: creación de cliente o creación de factura
+
+En modulo de creación de factura:
+---------------------------------
+
+2. una vez ingrese al modulo de creación de factura, ingresar el ID de uno de los clientes descritos en la base de datos: (11111,22222,33333)
+
+3. click en "cargar datos" aparecerán los datos del cliente
+
+4. ingresar el ID factura (solo numero), la fecha de realización (formato: aaaa-mm-dd), fecha de vencimiento (formato: aaaa-mm-dd), orden de compra y remision
+
+5. los campos código, descripción, cantidad, valor unitario corresponden a los ítems de la factura, una vez diligencie los 4 campos haga click en "Agregar item". en caso de requerir otro item, repetir el proceso todas las veces que requiera según la cantidad de ítems a añadir. Siempre se debe finalizar clickeando en "Agregar item", sino el item no se añadira.
+
+6. escribir las observaciones de la factura, si es que tiene, sino se deja en blanco
+
+7. una vez todo diligenciado, click en "Generar", esto generara la factura y calculara los impuestos y valor total
+
+8. el botón "Enviar factura" se hará visible, al presionarlo seguirá el proceso de enviar la factura por correo al cliente y DIAN (esta función no esta implementada en el programa presentado al SENA)
+
+En modulo de creación de cliente:
+----------------------------------
+2. ingresar los datos del cliente a crear
+
+3. click en crear cliente
+
+
+
+
+NOTA: version conector java MySQL usado: 8.0.17
+
+APACHE TOMCAT Version: 10.1.24;

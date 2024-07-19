@@ -1,0 +1,64 @@
+IMG{
+	height: 120px
+}
+BODY {
+	color:white;
+	background-color: #1E90FF;
+	font-family: Arial;
+}
+H1 {
+	font-size:42px;
+	text-align: center;
+	position: relative;
+	top: 40px;
+}
+
+LABEL {
+	font-size:30px;
+    height: 50px;
+    position: relative;
+	top: 60px;
+}
+INPUT{
+	font-size: 30px;
+ 	height: 50px;
+}
+.column1{
+	position: relative;
+  	left: 300px; 
+}
+.textcolumn1{
+	position: relative;
+  	left: 100px; 
+ }
+ .column2{
+	position: relative;
+  	left: 1400px;
+  	top: -500px; 
+}
+.textcolumn2{
+	position: relative;
+  	left: 1000px;
+  	top: -450px;  
+ }
+.button{
+	font-size: 30px;
+	position: absolute;
+	left: 850px;
+  	top:  800px; 
+	padding: 20px 50px;
+  	background-color: #778899;
+  	color: white;
+ 	border-radius: 30px;
+ 	cursor: pointer;
+}
+.button:hover{
+	background-color: #708090;
+}
+.mensaje{
+	position: absolute;
+	left: 700px;
+  	top:  950px; 
+}
+
+
